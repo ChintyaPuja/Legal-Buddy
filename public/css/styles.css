@@ -1,0 +1,43 @@
+.navbar{
+  top: 0;
+position: fixed;
+width: 100%;
+z-index: 1;
+}
+
+.navbar .navbar-brand{
+  color: #EB9405;
+  font: "Outfit";
+  margin-left: 15px;
+}
+.nav-link:hover{
+  color: #eb93057a;
+  font: "Outfit";
+}
+.nav-link{
+  color:#ffff;
+  font: "Outfit";
+  margin-left: 25px;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 25rem;
+}
+
+
+.login-bg{
+  color:#840000;
+}
+
+
